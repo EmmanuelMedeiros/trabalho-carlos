@@ -1,0 +1,5 @@
+# remove .vscode 
+.vscode
+
+# remove node_modules folder 
+node_modules
